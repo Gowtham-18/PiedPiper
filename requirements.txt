@@ -1,0 +1,21 @@
+# Specify dependencies here.
+# Requirements for your project
+
+# pandas library for data manipulation
+pandas
+
+# numpy library for numerical operations
+numpy==1.20
+
+# matplotlib library for data visualization
+matplotlib
+
+# scikit-learn library for machine learning algorithms
+scikit-learn
+
+# hiplot library for interactive visualization
+hiplot==0.1.33
+
+# openai library for interfacing with OpenAI's API
+openai==1.16.2
+
